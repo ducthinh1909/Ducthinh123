@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Lê Đức Thịnh, MSSV 222934.
+Đây là README từ nhánh conflict-demo.

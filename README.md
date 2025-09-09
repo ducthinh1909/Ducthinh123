@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là <Le Duc Thinh>, MSSV <222934>.
+Giới thiệu: Tôi là Lê Đức Thịnh, MSSV 222934.
